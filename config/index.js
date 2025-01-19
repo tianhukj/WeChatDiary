@@ -15,7 +15,7 @@ const CONFIG = {
   TEMPLATE_ID: "rdlKXnh-mlQGnwmV7wXKSXRnI9-nZe_qXuJhe3VCeAo",
 
   // 天行API的key
-  TXApiKey: "96fd738b99e30ffa1014dad845cd0764",
+  TXApiKey: "465f0c05fdf174b571524db5dcc0c7e9",
 
   // 用户列表 可配置多个用户
   user: [
